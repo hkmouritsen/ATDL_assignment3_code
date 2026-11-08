@@ -7,7 +7,7 @@ The experimental files consists of three notebooks as well as three modules impl
 
 ### `neural_model.ipynb`
 
-This file contains the code for preprocessing and splitting the MNIST data into training and valdiation sets as described in the assignemnts. Neural network setup and training loops are also contained.
+This file contains the code for preprocessing and splitting the MNIST data into training and valdiation sets as described in the assignments. Neural network setup and training loops are also contained.
 
 All experimental runs used this file as template. The model specifications were altered as needed for all experimental setups. 
 
